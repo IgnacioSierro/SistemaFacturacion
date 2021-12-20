@@ -119,7 +119,7 @@ function generarFactura(cliente) {
              totalLoc: totalLamadas.totalLoc,
              totalNac: totalLamadas.totalNac,
              totalInt: totalLamadas.totalInt,
-             total = totalLamadas.total,
+             total : totalLamadas.total,
          }
         
     }
